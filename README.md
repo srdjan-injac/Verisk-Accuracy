@@ -55,6 +55,7 @@ Replicated Verisk's business validation rules in Python:
 ![Visualization Gif](assets/images/ezgif.com-speed.gif)
 
 ---
+👉 [View Jupyter Notebook Code]([https://github.com/srdjan-injac/Verisk-Accuracy](https://github.com/srdjan-injac/Verisk-Accuracy/blob/main/Verisk_XML.ipynb))
 
 ## Key Technologies
 
@@ -62,4 +63,3 @@ Replicated Verisk's business validation rules in Python:
 - **Libraries**: `pandas`, `xml.etree.ElementTree`, `matplotlib` , `seaborn`
 - **Tools**: SQL Server, Python scripting, Jupyter Notebook
 
-👉 [View Full Project Repository](https://github.com/srdjan-injac/Verisk-Accuracy)
