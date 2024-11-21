@@ -6,7 +6,7 @@ This project evaluates the accuracy of Verisk’s insurance verification process
 ---
 
 ## Background
-As a funding analyst, understanding the effectiveness of Verisk's insurance verification is critical. The initial hypothesis suggested that Verisk achieves a ~5% full verification success rate, with partial verifications at ~30%. This project aims to determine the true accuracy of Verisk by systematically evaluating its verification process using a set of well-defined rules.
+As an analyst I was tasked to analyze the effectiveness of Verisk's insurance verification is critical. The initial hypothesis suggested that Verisk achieves a ~5% full verification success rate, with partial verifications at ~30%. This project aims to determine the true accuracy of Verisk by systematically evaluating its verification process using a set of well-defined rules.
 
 ---
 
@@ -46,6 +46,12 @@ Replicated Verisk's business validation rules in Python:
 
 ### 3. Recurring Providers
 - Pinpointed insurance providers frequently appearing in both successful and unsuccessful verifications.
+
+---
+
+## Visualization
+
+![Visualization Gif](assets/images/ezgif.com-speed.gif)
 
 ---
 
