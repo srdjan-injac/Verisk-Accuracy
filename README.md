@@ -39,13 +39,14 @@ Replicated Verisk's business validation rules in Python:
 ## Results
 
 ### 1. Overall Accuracy
-- Quantified Verisk’s true accuracy rates for both full and partial verifications.
+- Contrary to the initial hypothesis, only around 1% of policies were fully verified, far below the expected 5%.
+- Partial verifications remained in line with expectations at approximately 30%.
 
 ### 2. Trends Over Time
-- Highlighted periods with higher verification success rates.
+- No significant correlation was found between verification success rates and specific time periods.
 
 ### 3. Recurring Providers
-- Pinpointed insurance providers frequently appearing in both successful and unsuccessful verifications.
+- Insurance providers frequently appearing in both successful and unsuccessful verifications were identified, but no strong patterns emerged that could explain the low success rate.
 
 ---
 
