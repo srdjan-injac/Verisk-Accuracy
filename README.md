@@ -6,7 +6,7 @@ This project evaluates the accuracy of Verisk’s insurance verification process
 ---
 
 ## Background
-As an analyst I was tasked to analyze the effectiveness of Verisk's insurance verification is critical. The initial hypothesis suggested that Verisk achieves a ~5% full verification success rate, with partial verifications at ~30%. This project aims to determine the true accuracy of Verisk by systematically evaluating its verification process using a set of well-defined rules.
+As an analyst I was tasked to analyze the effectiveness of Verisk's insurance verification. The initial hypothesis suggested that Verisk achieves a ~5% full verification success rate, with partial verifications at ~30%. This project aims to determine the true accuracy of Verisk by systematically evaluating its verification process using a set of well-defined rules.
 
 ---
 
