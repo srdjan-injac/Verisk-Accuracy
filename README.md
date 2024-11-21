@@ -60,3 +60,5 @@ Replicated Verisk's business validation rules in Python:
 - **Languages**: Python, SQL
 - **Libraries**: `pandas`, `xml.etree.ElementTree`, `matplotlib` , `seaborn`
 - **Tools**: SQL Server, Python scripting, Jupyter Notebook
+
+👉 [View Full Project Repository](https://github.com/srdjan-injac/Verisk-Accuracy)
