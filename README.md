@@ -63,4 +63,5 @@ Replicated Verisk's business validation rules in Python:
 - **Languages**: Python, SQL
 - **Libraries**: `pandas`, `xml.etree.ElementTree`, `matplotlib` , `seaborn`
 - **Tools**: DataGrip, Jupyter Notebook
-
+---
+[Back to My Portfolio](https://srdjan-injac.github.io/my_portfolio/)
