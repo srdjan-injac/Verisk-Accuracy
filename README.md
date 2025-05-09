@@ -56,7 +56,7 @@ Replicated Verisk's business validation rules in Python:
 
 ---
 
-## [Explore the Complete Code in Jupyter Notebook](https://github.com/srdjan-injac/Verisk-Accuracy/blob/main/Verisk_XML.ipynb)
+## [Explore the Complete Code in Jupyter Notebook](https://github.com/srdjan-injac/Verisk-Accuracy/blob/main/Verisk_XML%20(1).ipynb)
 
 ## Key Technologies
 
